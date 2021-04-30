@@ -113,7 +113,7 @@ var config = {
 				showSun: false,
 				weatherEndpoint: "/weather",
 				locationID: "5304391", //Location ID from http://bulk.openweathermap.org/sample/city.list.json.gz
-				apiKey: "bb12582b17e9732068adedf11561a1a8" //openweathermap.org API key.
+				apiKey: "openweatherapikey" //openweathermap.org API key.
 			}
 		},
 		{
