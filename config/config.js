@@ -125,7 +125,7 @@ var config = {
 				type: "forecast",
 				colored: true,
 				locationID: "5304391", //Location ID from http://bulk.openweathermap.org/sample/city.list.json.gz
-				apiKey: "bb12582b17e9732068adedf11561a1a8" //openweathermap.org API key.
+				apiKey: "openweatherApikey" //openweathermap.org API key.
 			}
 		},
 		// {
@@ -149,10 +149,10 @@ var config = {
 			position: "bottom_left",
 
 			config: {
-				clientID: "b389e63ff4464bbeba161055b9de84b8",
-				clientSecret: "bc61de76bd31452d9625df6f907f5e9d",
-				accessToken: "BQCWeF-Re-ej9hG1X5jFuFRoNVJexd_e0yoaNGQSYKM-UfGNPvPKQyDrAf_k9MRXfJSZXjRvFqczQFqW68WyxPFGMckWpGs38uM4ZhG1xBwWMHENc8l3CvP1MpMYgQHepxX6meWLIOZXmTcM0zrEw6jFitc",
-				refreshToken: "AQCnkoiHYilYuiy-yVM0_YqeKWNnD9ARyGWEgFOiaEZCxh9t9zW9-5rCWJCa64VpsE6rsa-xPRZTuStMo9t6QaMzsQIkJn9i_UmF-8UQ9hFAVBmzf8g8kKh4s86cxktHsAw"
+				clientID: "clientId",
+				clientSecret: "clientSecret",
+				accessToken: "Accesstoken",
+				refreshToken: "refreshtoken"
 			}
 		},
 	]
